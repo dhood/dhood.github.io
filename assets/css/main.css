@@ -1913,7 +1913,7 @@
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 500px;
+  max-width: 40%;
   position: relative;
   margin: auto;
 }
@@ -1933,7 +1933,7 @@
   padding: 16px;
   color: white;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 60%;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;
