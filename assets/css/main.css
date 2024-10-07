@@ -1270,7 +1270,11 @@
 			.button.alt:active {
 				background-color: #999999;
 			}
-
+	
+	.subscribe-btn {
+		text-align: center;
+	}
+			
 /* List */
 
 	ul.default {
