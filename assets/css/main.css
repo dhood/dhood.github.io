@@ -1237,6 +1237,7 @@
 		button:hover,
 		.button:hover {
 			background-color: #106574;
+			color: white;
 		}
 
 		input[type="button"]:active,
@@ -1812,6 +1813,12 @@
 				width: 100%;
 				padding: 0.75em 0 0.75em 0;
 				text-align: center;
+			}
+
+			.subscribe-btn button {
+				height: 10vw;
+				font-size: 4vw;
+				line-height: 2vw;
 			}
 
 		/* Wrapper */
